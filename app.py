@@ -1,9 +1,9 @@
 import streamlit as st
 
-# Configuração da Página (Título na aba do navegador)
-st.set_page_config(page_title="EduTrack AI", page_icon="📚")
+# Page configuration
+st.set_page_config(page_title="EduTrack AI", page_icon="")
 
-# Título Principal
+# Main Title
 st.title("📊 EduTrack AI")
 
 # Sidebar (Menu Lateral)
